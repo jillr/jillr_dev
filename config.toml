@@ -1,0 +1,5 @@
+baseURL = "https://jillr.io/"
+languageCode = "en-us"
+title = "jillr.io"
+theme = "ananke"
+publishDir = "docs"
