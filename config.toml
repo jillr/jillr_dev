@@ -1,5 +1,5 @@
-baseURL = "https://jillr.io/"
+baseURL = "https://jillr.dev/"
 languageCode = "en-us"
-title = "jillr.io"
+title = "jillr.dev"
 theme = "ananke"
 publishDir = "docs"
