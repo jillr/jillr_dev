@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jillr.dev</title>
-    <link>https://jillr.dev/</link>
-    <description>Recent content on jillr.dev</description>
+    <title>Recipes on jillr.dev</title>
+    <link>https://jillr.dev/recipes/</link>
+    <description>Recent content in Recipes on jillr.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Nov 2018 22:44:45 -0700</lastBuildDate><atom:link href="https://jillr.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jillr.dev/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>World Famous Snickerdoodles</title>
       <link>https://jillr.dev/recipes/snickerdoodles/</link>
