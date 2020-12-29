@@ -54,7 +54,7 @@ Bake
 
 Preheat the oven to 400ºF.
 
-Bake one sheet at a time for 9–10 minutes in the center rack of the oven, until just barley golden around the edges. Cool for several minutes on the baking sheets before moving to a wire rack to cool to room temperature.
+Bake one sheet at a time for 9–10 minutes in the center rack of the oven, until just barely golden around the edges. Cool for several minutes on the baking sheets before moving to a wire rack to cool to room temperature.
 
 Can be stored for 5-7 days in an airtight container.
 

@@ -6,7 +6,11 @@
     <description>Recent content on jillr.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Nov 2018 22:44:45 -0700</lastBuildDate><atom:link href="https://jillr.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Nov 2018 22:44:45 -0700</lastBuildDate>
+    
+	<atom:link href="https://jillr.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>World Famous Snickerdoodles</title>
       <link>https://jillr.dev/recipes/snickerdoodles/</link>
